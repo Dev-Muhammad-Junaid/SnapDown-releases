@@ -29,4 +29,6 @@ and every release here carries the source of the GPL ones that came with it.
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Unlicense | [GitHub](https://github.com/yt-dlp/yt-dlp) |
 | [gallery-dl](https://github.com/mikf/gallery-dl) | GPL-2.0 | attached to each release, and [GitHub](https://github.com/mikf/gallery-dl) |
 | [FFmpeg](https://ffmpeg.org) (ffmpeg, ffprobe), [Martin Riedl's static build](https://ffmpeg.martin-riedl.de) | GPL-3.0-or-later | attached to each release (FFmpeg and the build script), and [ffmpeg.org](https://ffmpeg.org/download.html#releases) |
+| [whisper.cpp](https://github.com/ggml-org/whisper.cpp), for transcribing on the Mac | MIT | [GitHub](https://github.com/ggml-org/whisper.cpp) |
+| [Whisper](https://github.com/openai/whisper) models, downloaded when chosen | MIT | [GitHub](https://github.com/openai/whisper) |
 | Python (inside yt-dlp and gallery-dl) | PSF-2.0 | [python.org](https://www.python.org/downloads/source/) |
